@@ -36,8 +36,8 @@ public class Main {
 		}
 		if (i == K) {
 			System.out.println(
-				"You have exhausted"
-				+ " K trials.");
+				"You have exhausted "
+				+  K+ " trials.");
 			System.out.println(
 				"The number was " + number);
 		}
